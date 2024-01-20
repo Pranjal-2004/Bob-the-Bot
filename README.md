@@ -1,2 +1,2 @@
 # Bob-the-Bot
-ai chatbot
+AI Chat Bot
