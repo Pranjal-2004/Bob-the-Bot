@@ -5,8 +5,8 @@ from rasa_sdk import Action
 
 cookie_dict = {
     
-    "__Secure-1PSIDTS": "sidts-CjEB3e41hbuRiJhhTeEWIOsy7LkuUR084Wi9LkmXhRqcorhyWEpuQ07N6RoJ0lYM0ZZ2EAA",
-    "__Secure-1PSID": "bwjNXE5EjkoDdYjICLOdoynYfVR7Xgslio6uzE4EkYkkCj65sIR_BN6VeIp2yxg9BLVHvw."
+    "__Secure-1PSIDTS": "USE YOUR API KEY FROM BARD",
+    "__Secure-1PSID": "USE API KEY"
 
 }
 
